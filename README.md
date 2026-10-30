@@ -3,7 +3,7 @@
 **Asignatura:** Desarrollo de Aplicaciones Móviles  
 **Unidad:** Unidad 2 (Práctica Integradora 2)  
 **Integrante:** Pamela Urbán García  
-**Plataforma Objetivo:** Android / Multiplataforma (Flutter & Dart)  
+**Plataforma Objetivo:** Android (Flutter & Dart)  
 
 ---
 
