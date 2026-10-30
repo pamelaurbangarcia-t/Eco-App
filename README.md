@@ -41,5 +41,7 @@ eco/
 ├── ios/                   # Configuración nativa para iOS
 ├── pubspec.yaml           # Dependencias y configuración del proyecto Flutter
 └── README.md              # Documentación y bitácora del proyecto
+
 ---
  ##🎮 PRUEBA EL JUEGO
+https://pamelaurbangarcia-t.github.io/Eco-App/web/
